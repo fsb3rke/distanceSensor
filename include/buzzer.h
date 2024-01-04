@@ -5,7 +5,6 @@
 
 #include <Arduino.h>
 
-#define NOTE 440 // DO (c)
 
 struct buzzer_data {
     int frequency;
